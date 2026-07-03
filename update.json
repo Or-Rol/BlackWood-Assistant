@@ -3,9 +3,6 @@
   "title": "BlackWood Assistant 0.9.1 Test",
   "installer_url": "https://github.com/Or-Rol/BlackWood-Assistant/releases/latest/download/BlackWoodAssistant_Setup.exe",
   "notes": [
-    "Первая тестовая версия",
-    "Добавлены Calculator, BP, Рецепты, Нотник, Таймеры, Графики",
-    "Добавлены трей, уведомления и автобэкап",
     "Тест автообновления"
   ]
 }
