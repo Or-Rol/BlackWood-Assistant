@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "title": "BlackWood Assistant 0.9.1 Test",
+  "version": "0.9.0",
+  "title": "BlackWood Assistant 0.9.0",
   "installer_url": "https://github.com/Or-Rol/BlackWood-Assistant/releases/latest/download/BlackWoodAssistant_Setup.exe",
   "notes": [
-    "Тест автообновления"
+    "Первая публичная версия"
   ]
 }
